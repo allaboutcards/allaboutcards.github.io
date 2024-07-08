@@ -1,0 +1,4 @@
+title: All About Cards
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
